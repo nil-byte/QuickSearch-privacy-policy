@@ -64,4 +64,4 @@
 1. 安装扩展后，按下快捷键（默认 `Ctrl+E / Command+E`）  
 2. 输入您要搜索的内容  
 3. 使用 `@` 符号快速切换搜索引擎，使用 `#` 符号选择打开模式  
-4. 按回车键执行搜索  ![iShot_2025-03-03_15 07 32-2](https://github.com/user-attachments/assets/4f4699cc-f19a-4fb1-acc4-5249afda3d6a)
+4. 按回车键执行搜索
